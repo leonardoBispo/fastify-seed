@@ -1,0 +1,2 @@
+# fastify-seed
+fastify-seed
